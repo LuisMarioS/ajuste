@@ -6,6 +6,7 @@ ayuda() {
 }
 
 servidor() {
-	php -S 127.0.0.1:8080
 	echo "El el navegador poner http://127.0.0.1:8080"
+	echo "Para apagarlo se pone CTRL-c"
+	php -S 127.0.0.1:8080
 }
