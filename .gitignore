@@ -1,4 +1,7 @@
-.*/*
+.bash_history
+.cache/
+.local/
 .bash_history
 .gitconfig
 install.sh
+.config
